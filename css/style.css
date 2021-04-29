@@ -1,0 +1,56 @@
+body{
+    background-color:#00001a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+
+.blocks{
+    display:flex;
+    color:white;
+    margin-top: 60px;
+}
+
+.card{
+    background-color: #330033;
+    margin-top: 150px;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    border-radius: 15px;
+}
+
+img{
+    height:100%;
+    border-radius: 0 15px 15px 0;
+}
+
+.info-heading{
+    color:white;
+}
+
+.info-content{
+    margin-left: auto;
+    margin-right: auto;
+    padding:50px 80px 50px 50px;
+}
+
+.info-para{
+    color:#b3b3b3;
+    margin-top: 40px;
+}
+
+.blocks-child{
+    margin-right: 40px;
+}
+
+.bottom-text{
+    color:#b3b3b3;  
+    margin-top: 0;
+    font-size: 14px;
+}
+
+.top-text{
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
